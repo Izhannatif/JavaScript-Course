@@ -1,0 +1,47 @@
+body{
+    background-image: url('https://i.pinimg.com/originals/cf/41/54/cf4154334c36bc1196b11d729c3a77d4.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.gameContainer{
+    text-align: center;
+}
+
+.gameBoard{
+    border: 8px #5e5e5e;
+    border-style: ridge;
+    border-radius: 5px;
+}
+
+.scoreTxt{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color:#2c2929;
+    text-shadow: 2px 2px black;
+}
+
+.reset{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+font-weight: 500;
+width: 80px;
+height: 40px;
+border: none;
+background-color:brown;
+color: whitesmoke;
+border-radius: 5px;
+margin-left: 50px;
+}
+.Start{
+margin-right: 50px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+font-weight: 500;
+width: 80px;
+height: 40px;
+border: none;
+background-color: green;
+color: whitesmoke;
+border-radius: 5px;
+}
